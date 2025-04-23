@@ -1,0 +1,35 @@
+_repo: Two-years-captivity-in-German-East-Africa-b-being-the-personal-experiences-of-Surgeon-E-C-H-R__75773
+_version: 0.0.1
+creator:
+  author:
+    agent_name: E. C. H. (Ernest Charles Holtom) (Surgeon)
+    aliases:
+    - H., E. C. (Ernest Charles Holtom), Surgeon
+    - Holtom, Ernest Charles, Surgeon
+    - ECH (Ernest Charles Holtom), Surgeon
+    birthdate: 1884
+    deathdate: 1964
+    gutenberg_agent_id: '57184'
+    url: http://www.gutenberg.org/2009/agents/57184
+description: ''
+gutenberg_issued: '2025-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75773'
+language: en
+pgterms:marc904: https://archive.org/details/twoyearscaptivit00holtrich
+pgterms:marc905: 20230404225529holtom
+pgterms:marc906: '1919'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bHutchinson & Co., $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Two years'' captivity in German East Africa : $b being the personal experiences
+  of Surgeon E. C. H., Royal Navy'
+url: http://www.gutenberg.org/ebooks/75773
