@@ -1,5 +1,8 @@
 _repo: Two-years-captivity-in-German-East-Africa-b-being-the-personal-experiences-of-Surgeon-E-C-H-R__75773
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75773-h/images/cover.jpg
 creator:
   author:
     agent_name: E. C. H. (Ernest Charles Holtom) (Surgeon)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '57184'
     url: http://www.gutenberg.org/2009/agents/57184
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75773#Two-years-captivity-in-German-East-Africa-b-being-the-personal-experiences-of-Surgeon-E-C-H-R_
 gutenberg_issued: '2025-04-01'
 gutenberg_type: Text
 identifiers:
